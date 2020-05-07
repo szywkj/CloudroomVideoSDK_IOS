@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   云屋科技SDK
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/CloudroomVideoSDK_IOS"
+  spec.homepage     = "https://github.com/szywkj/CloudroomVideoSDK_IOS"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/szywkj/CloudroomVideoSDK_IOS", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/szywkj/CloudroomVideoSDK_IOS.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
