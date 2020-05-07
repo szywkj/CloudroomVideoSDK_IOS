@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "CloudroomVideoSDK_IOS"
   spec.version      = "0.0.2"
-  spec.summary      = "A short description of CloudroomVideoSDK_IOS."
+  spec.summary      = "云屋 视频 会议 SDK"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  云屋科技SDK
+  云屋科技SDK,提供视频通话、语音通话、屏幕共享、白板、呼叫队列等服务
                    DESC
 
   spec.homepage     = "https://github.com/szywkj/CloudroomVideoSDK_IOS"
